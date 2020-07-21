@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/speechcorp-demo/static/css/main.2bd0cc6c.chunk.css",
+    "main.js": "/speechcorp-demo/static/js/main.d2e1b79a.chunk.js",
+    "main.js.map": "/speechcorp-demo/static/js/main.d2e1b79a.chunk.js.map",
+    "runtime-main.js": "/speechcorp-demo/static/js/runtime-main.b3247148.js",
+    "runtime-main.js.map": "/speechcorp-demo/static/js/runtime-main.b3247148.js.map",
+    "static/js/2.9a6a4ac9.chunk.js": "/speechcorp-demo/static/js/2.9a6a4ac9.chunk.js",
+    "static/js/2.9a6a4ac9.chunk.js.map": "/speechcorp-demo/static/js/2.9a6a4ac9.chunk.js.map",
+    "index.html": "/speechcorp-demo/index.html",
+    "precache-manifest.e739cbc029be69e5ad2dec8870d0ce12.js": "/speechcorp-demo/precache-manifest.e739cbc029be69e5ad2dec8870d0ce12.js",
+    "service-worker.js": "/speechcorp-demo/service-worker.js",
+    "static/css/main.2bd0cc6c.chunk.css.map": "/speechcorp-demo/static/css/main.2bd0cc6c.chunk.css.map",
+    "static/js/2.9a6a4ac9.chunk.js.LICENSE.txt": "/speechcorp-demo/static/js/2.9a6a4ac9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3247148.js",
+    "static/js/2.9a6a4ac9.chunk.js",
+    "static/css/main.2bd0cc6c.chunk.css",
+    "static/js/main.d2e1b79a.chunk.js"
+  ]
+}
